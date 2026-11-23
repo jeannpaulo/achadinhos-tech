@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tech & Automação | Achadinhos e Guias de Compra</title>
+  <meta name="description" content="Seleção testada e recomendada de periféricos, hardware e componentes de automação IoT no Mercado Livre." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <span class="badge">Seleção Tech & IoT</span>
+      <h1>Hardware, Periféricos & Automação</h1>
+      <p>Equipamentos recomendados com links diretos e seguros para o Mercado Livre.</p>
+
+      <div class="search-box">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Buscar por mouse, monitor, ESP32, impressora..."
+          aria-label="Buscar produtos"
+        />
+      </div>
+
+      <nav class="filters" id="filterButtons">
+        <button class="filter-btn active" data-category="todos">Todos</button>
+        <button class="filter-btn" data-category="perifericos">Periféricos & Hardware</button>
+        <button class="filter-btn" data-category="automacao">Automação & IoT</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <p class="affiliate-notice">
+      * Como afiliado do Mercado Livre, posso receber uma pequena comissão pelas compras qualificadas sem custo adicional para você.
+    </p>
+
+    <section class="products-grid" id="productsGrid">
+      <!-- Os cards são renderizados automaticamente pelo app.js -->
+    </section>
+
+    <div id="emptyState" class="empty-state hidden">
+      <p>Nenhum produto encontrado para essa busca.</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Curadoria de Hardware, Setup e Automação • Atualizado em 2026</p>
+    </div>
+  </footer>
+
+  <script src="produtos.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
