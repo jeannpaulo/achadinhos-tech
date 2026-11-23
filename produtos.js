@@ -5,7 +5,7 @@ const PRODUTOS = [
     tag: "Mouse Sem Fio",
     titulo: "Logitech G305 Lightspeed Sem Fio",
     resumo: "Sensor HERO de 12.000 DPI com resposta de 1 ms e autonomia para meses com apenas 1 pilha AA.",
-    imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_716422-MLA40076554840_122019-F.webp",
+    imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_939616-MLU69348111837_052023-F.webp",
     linkAfiliado: "https://meli.la/1CZuqai",
     beneficios: [
       "Conexão Lightspeed 2.4 GHz sem atraso perceptível, equivalente a mouses com cabo.",
