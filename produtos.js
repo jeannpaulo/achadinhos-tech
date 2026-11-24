@@ -132,7 +132,7 @@ const PRODUTOS = [
     titulo: "Geladeira Frost Free Duplex Consul 375L (CRM39AK)",
     resumo: "Amplo espaço interno com prateleiras ajustáveis, controle externo de temperatura e baixo consumo.",
     imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_987413-MLB87981816459_072025-F-geladeira-frost-free-duplex-consul-crm44mk.webp",
-    linkAfiliado: "https://meli.la/17qQ6HZ",
+    linkAfiliado: "https://meli.la/26HqMvM",
     beneficios: [
       "Tecnologia Frost Free que dispensa o descongelamento manual.",
       "Gavetão de legumes com controle de umidade para conservar alimentos por mais tempo.",
