@@ -124,5 +124,20 @@ const PRODUTOS = [
       "Sistema drop-in de troca rápida de bobina térmica de 80mm.",
       "Compatibilidade nativa com Windows, Linux e comandos ESC/POS."
     ]
+  },
+  {
+    id: 10,
+    categoria: "eletrodomesticos",
+    tag: "Geladeira / Refrigerador",
+    titulo: "Geladeira Frost Free Duplex Consul 375L (CRM39AK)",
+    resumo: "Amplo espaço interno com prateleiras ajustáveis, controle externo de temperatura e baixo consumo.",
+    imagem: "https://http2.mlstatic.com/D_NQ_NP_2X_987413-MLB87981816459_072025-F-geladeira-frost-free-duplex-consul-crm44mk.webp",
+    linkAfiliado: "https://meli.la/17qQ6HZ",
+    beneficios: [
+      "Tecnologia Frost Free que dispensa o descongelamento manual.",
+      "Gavetão de legumes com controle de umidade para conservar alimentos por mais tempo.",
+      "Classificação energética A com compressor silencioso e econômico.",
+      "Otimo Custo X Benefecio para quem busca um refrigerador confiável e eficiente."
+    ]
   }
 ];
